@@ -1,2 +1,2 @@
-# VSD-INTERNSHIP-
-This repository contains all the resources for the VSDS Research Internship.
+# VSD-INTERNSHIP-RISC V 
+This repository contains all the resources for the VSD Research Internship.
