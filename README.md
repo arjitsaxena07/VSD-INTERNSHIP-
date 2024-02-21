@@ -24,10 +24,11 @@ BOARD SPECS:
 
 This repo is intended to document the weekly progress.
 
-### The first online meet was held on 16th of Feb 2024 @6PM
 
 <details>
     <summary> TASK 1 </summary>
+
+### The first online meet was held on 16th of Feb 2024 @6PM
 
 1) install RISC-V GNU Toolchain 
 
@@ -37,12 +38,10 @@ This repo is intended to document the weekly progress.
 
 4) install gtkwave
 
-
-
-### The 2nd online meet was held on 20th of Feb 2024 @6PM
 </details>	
 	<details>
     <summary> TASK 2 </summary>
-
+		
+### The 2nd online meet was held on 20th of Feb 2024 @6PM
     Identify Input ports, input waveforms, output ports and output waveforms for your design.
 
