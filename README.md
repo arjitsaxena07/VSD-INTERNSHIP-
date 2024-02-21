@@ -37,3 +37,8 @@ This repo is intended to document the weekly progress.
 
 4) install gtkwave
 
+<details>
+    <summary> TASK 2 </summary>
+
+    Identify Input ports, input waveforms, output ports and output waveforms for your design.
+
