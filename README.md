@@ -36,10 +36,12 @@ This repo is intended to document the weekly progress.
 3) install iverilog 
 
 4) install gtkwave
-5) 
-### The 2nd online meet was held on 20th of Feb 2024 @6PM
 
-<details>
+
+
+### The 2nd online meet was held on 20th of Feb 2024 @6PM
+</details>	
+	<details>
     <summary> TASK 2 </summary>
 
     Identify Input ports, input waveforms, output ports and output waveforms for your design.
