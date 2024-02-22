@@ -43,5 +43,34 @@ This repo is intended to document the weekly progress.
     <summary> TASK 2 </summary>
 		
 ### The 2nd online meet was held on 20th of Feb 2024 @6PM
-    Identify Input ports, input waveforms, output ports and output waveforms for your design.
 
+Identify Input ports, input waveforms, output ports and output waveforms for your design.
+
+PROJECT SELECTED: Universal Asynchronous Receiver Transmitter protocol based on hardware transmitter 
+
+# What is Universal Asynchronous Receiver Transmitter?
+
+--> Universal asynchronous reciver / transmitter also know as UART. 
+--> Protocol for exchanging serial data between two devices.
+--> Uses only two wires 
+    - TX to RX (each direction) 
+--> Can be simplex, half duplx or full duplex 
+    - Simples; in this data is sent in one direction only. 
+    - half duplex; in this each side communicate but only one at a time.
+    - full duplex; in this both side can transmit at the same time.
+--> Data is transmitted as frames.
+
+<img width="529" alt="image" src="https://github.com/arjitsaxena07/VSD-INTERNSHIP-/assets/83625986/89c9576f-fede-440e-a8d4-b273fa945696">
+
+## Input Waveform 
+<img width="905" alt="image" src="https://github.com/arjitsaxena07/VSD-INTERNSHIP-/assets/83625986/c217b747-4f65-49bc-89fb-d836be2ac4bc">
+
+## Output Waveform
+<img width="956" alt="image" src="https://github.com/arjitsaxena07/VSD-INTERNSHIP-/assets/83625986/dd5b2ffa-fbfb-462b-ad0a-65257a1a15eb">
+
+</details>	
+	<details>
+    <summary> TASK 3 </summary>
+
+###  The 3rd online meet was held on 22nd of Feb 2024 @6PM
+Task: Basics of Functional Simulation. Upload lab snapshots from iverilog and gtkwave. 
